@@ -7,3 +7,4 @@
 # Helpfullinks 
 - [apple.com](https://www.apple.com/ca/)
 - [google.ca](https://www.google.ca)
+- [stuview.georgebrown.ca](https://stuview.georgebrown.ca)
