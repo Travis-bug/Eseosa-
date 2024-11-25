@@ -1,3 +1,4 @@
+-- Eseosa Travis Eweka
 -- Concatenate the course name and semester with a hyphen in between
 SELECT course_name || ' - ' || semester AS course_and_semester
 FROM courses;
